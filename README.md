@@ -1,1 +1,3 @@
-# michaeljaggers
+# Michael Jaggers — @michaeljaggers
+
+Hello Github!
