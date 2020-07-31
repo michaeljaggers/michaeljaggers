@@ -1,3 +1,3 @@
 # Michael Jaggers — @michaeljaggers
 
-![WM Jaggers Logo](./images/jaggers.png)
+![WM Jaggers Logo](https://github.com/michaeljaggers/michaeljaggers/blob/master/images/jaggers.png)
