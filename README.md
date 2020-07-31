@@ -1,3 +1,3 @@
 # Michael Jaggers — @michaeljaggers
 
-Hello Github!
+![WM Jaggers Logo](./images/jaggers.png)
